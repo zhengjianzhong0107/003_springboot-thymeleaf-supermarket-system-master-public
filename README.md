@@ -1,6 +1,8 @@
-**完整代码收费  加qq  931708230 或者加微信  ynwwxid**
+### 作者QQ：1556708905(支持修改、 部署调试、 支持代做毕设)
 
-**接毕业设计和论文**
+#### 支持代做任何毕设论、接网站建设、小程序、H5、APP、各种系统等
+
+**毕业设计所有选题地址 [https://github.com/zhengjianzhong0107/allProject](https://github.com/zhengjianzhong0107/allProject)**
 
 **博客地址：
 [https://blog.csdn.net/2303_76227485/article/details/128641115](https://blog.csdn.net/2303_76227485/article/details/128641115)**
@@ -8,8 +10,7 @@
 **视频演示：
 [B站视频演示](https://www.bilibili.com/video/BV14g411J7w6)**
 
-**毕业设计所有选题地址：
-[https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
+
 
 #### 基于springboot的超市管理系统，java项目
 
@@ -42,6 +43,7 @@
 普通员工：库存管理
 
 #### 二、所用技术
+
 主要技术：springboot，java，mysql，thyemleaf，shiro,mybatisplus
 
 #### 三、环境介绍
@@ -49,6 +51,7 @@
 推荐环境配置：idea/eclipse  jdk1.8  maven3.6  mysql5.7（需要远程可私聊）
 
 #### 四、运行截图
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/80f8af90fe834d8d9d33c457c389f417.png#pic_center)
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/e5451936324a4c15936ac3555b41aef0.png#pic_center)
@@ -68,15 +71,10 @@
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/ae1beed14b3a490cba4f2b85ebefdf7c.png#pic_center)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/1addc206a469403c94242da40cd42408.png#pic_center)
 
-
-
-
 #### 五、浏览地址
 
 前台地址
 http://localhost:8084
 用户名：admin   密码：123456
 
-**需要完整代码可以加qq  931708230 或者加微信  ynwwxid**
 
-**需要完整代码可以加qq  931708230 或者加微信  ynwwxid**
